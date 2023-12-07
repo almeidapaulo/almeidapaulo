@@ -1,16 +1,17 @@
-### Hi there 👋
+## ![](./bg-github.jpg)
 
-<!--
-**almeidapaulo/almeidapaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏾‍💻 Sobre mim
 
-Here are some ideas to get you started:
+☕Nortista apaixonado por tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Conhecimento em programação Java, Javascript, Python e C+.
+
+🌱 Atualmente acadêmico na @CubosAcademy.
+
+✉️ Email para contato: [enviar e-mail](mailto:almeidapaulo2013@gmail.com)
+
+### 📊 Dados
+
+Registro com [Wakatime](https://wakatime.com/):
+
+[![wakatime](https://wakatime.com/badge/user/018c467a-e6d9-4f38-9a2e-af505a09896f.svg)](https://wakatime.com/@018c467a-e6d9-4f38-9a2e-af505a09896f)
